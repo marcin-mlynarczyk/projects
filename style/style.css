@@ -83,7 +83,7 @@ a {
 
 .hero {
   height: calc(100vh - 50px);
-  background-image: url(/forest.jpg);
+  background-image: url(/forest.webp);
   background-size: cover;
 }
 .overlay {
